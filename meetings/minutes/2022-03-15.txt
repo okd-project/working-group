@@ -1,0 +1,41 @@
+# OKD Working Group Meeting Notes
+
+## Mar 15, 2022
+
+### Attendees:
+
+* Diane Mueller (Red Hat)
+* Vadim Rutkovsky (Red Hat)
+* Daniel Axelrod (Datto)
+* Christian Glombek (Red Hat)
+* Dusty Mabe (Red Hat)
+* Neal Gompa (Datto)
+* Bruce Link (BCIT)
+* Leroy Shirto (Ionos)
+* Philipp Dallig (AVM)
+* Jaime Magiera (University of Michigan)
+
+### Agenda
+* Agenda Review
+* [sallyom]MicroShift overview - Sally O' Malley (Red Hat)
+    * [slides&links](https://github.com/sallyom/slides-presentations/tree/main/MicroShift)
+    * https://next.redhat.com/project/microshift/
+    * https://microshift.io/docs/community/
+    * MicroShift community Slack invite link: https://join.slack.com/t/microshift/shared_invite/zt-uxncbjbl-XOjueb1ShNP7xfByDxNaaA
+    * note: the add-on components are only referenced in the binary - they get pulled at runtime
+* OKD Release updates (Vadim/Christian)
+    * [vrutkovs] OKD 4.10 is GA, uses F35
+    * [vrutkovs] Next kernel update - "dirty pipe" fixed, beware https://github.com/coreos/fedora-coreos-tracker/issues/1121
+* FCOS updates (Timothée)
+* Docs updates (Brian, Dhriti, Jaime)
+* Issues https://github.com/openshift/okd/issues
+* Discussions https://github.com/openshift/okd/discussions
+
+* Current Items
+    * Operators Status
+        * https://github.com/openshift/okd/issues/456
+    * [cglombek] New repo for provider onboarding docs: https://github.com/openshift/infrastructure-provider-onboarding-guide (geared towards OCP, but applies to OKD as well)
+* Tasks
+    * Jaime - get 4.10 and 4.11 update info (ongoing)
+    * Charro Gruver - gather OKD download stats from dl.fedoraproject.org or delegate
+    * Daniel - Finalize goals and format for guides and then file tickets against people who have agreed to update them
