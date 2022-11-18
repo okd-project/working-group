@@ -11,8 +11,9 @@ We use zoom for our meetings, as it is the most ubiquitous of the video conferen
 Join Zoom Meeting
 https://umich.zoom.us/j/98508155508
 
-Meeting ID: 985 0815 5508
-Passcode: 589251
+- Meeting ID: 985 0815 5508
+- Passcode: 589251
+
 One tap mobile
 +13017158592,,98508155508# US (Washington DC)
 +13052241968,,98508155508# US
