@@ -26,7 +26,7 @@ One tap mobile
 ### Community Development Meeting
 
 Join Zoom Meeting
-https://umich.zoom.us/j/98508155508?pwd=NXVjVk1wOE5CM2hsRDQ4eGh5eUdhZz09
+https://umich.zoom.us/j/96648123924?pwd=RitQVVQvMFVSaXJhNkFBS08vWTk0Zz09
 
 - Meeting ID: 985 0815 5508
 - Passcode: 589251
