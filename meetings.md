@@ -2,7 +2,7 @@
 
 ## Day and Time
 
-The main OKD Working Group meeting happens every other Tuesday at 5:00PM UTC. On alternating weeks, the OKD Community Development Subgroup meets at 5:00PM UTC. Please check the OKD Fedora Calender to see which weeks.
+The main OKD Working Group meeting happens every other Tuesday at 12:00PM US/Eastern. On alternating weeks, the OKD Community Development Subgroup meets at the same time. Please check the OKD Fedora Calender to see which weeks.
 
 ## Joining the Meeting
 
