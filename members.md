@@ -33,4 +33,5 @@ Jaime Magiera (UMich)
 * Lorenzo Dalrio
 * Michal Kopijasz
 * Sandro Bonazzola
+* Zed Spencer-Milnes
 
