@@ -32,3 +32,4 @@ Jaime Magiera (UMich)
 * Joe Doss
 * Lorenzo Dalrio
 * Michal Kopijasz
+* Zed Spencer-Milnes
