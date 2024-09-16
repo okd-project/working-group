@@ -8,9 +8,8 @@ The main OKD Working Group meeting happens every Tuesday at 12:00PM US/Eastern.
 
 We use zoom for our meetings, as it is the most ubiquitous of the video conferencing options. We want our meetings to be as accessible to the public as possible. 
 
-
 Join Zoom Meeting
-https://umich.zoom.us/j/99842244394?pwd=YVdkQjJTdnpBMUkySGVzK1kyTGoyZz09
+[https://umich.zoom.us/j/99842244394?pwd=YVdkQjJTdnpBMUkySGVzK1kyTGoyZz09](https://umich.zoom.us/j/99842244394?pwd=YVdkQjJTdnpBMUkySGVzK1kyTGoyZz09)
 
 Meeting ID: 998 4224 4394
 Passcode: 748406
