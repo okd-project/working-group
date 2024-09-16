@@ -8,6 +8,11 @@ The main OKD Working Group meeting happens every Tuesday at 12:00PM US/Eastern.
 
 We use zoom for our meetings, as it is the most ubiquitous of the video conferencing options. We want our meetings to be as accessible to the public as possible. 
 
+Time: Sep 17, 2024 12:00 PM Eastern Time (US and Canada)
+        Every week on Tue, until Sep 30, 2025, 55 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://umich.zoom.us/meeting/tJ0lc-uqqj8pE9BaqWvExZl6NApg-E7f2686/ics?icsToken=98tyKuChpj8oGNCRsxCDRox5Go-ga-rwiClej_p_nQ7SFQVLWA-gGMNSNf9aR96C
+
 Join Zoom Meeting
 https://umich.zoom.us/j/99842244394?pwd=YVdkQjJTdnpBMUkySGVzK1kyTGoyZz09
 
